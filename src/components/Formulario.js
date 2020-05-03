@@ -38,7 +38,7 @@ const Formulario = () => {
             name="nombre"
             className="form-control"
             type="text"
-            placeholder="Buscar por Ingrediente"
+            placeholder="Ingrediente Ejemplo: Tequila"
             onChange={obtenerDatosReceta}
           />
         </div>
